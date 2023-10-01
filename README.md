@@ -20,5 +20,11 @@ npm run build
 npm run lint
 ```
 
+### Build an contrainer
+```
+docker build -t front .
+```
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
